@@ -1,0 +1,16 @@
+[
+	{
+		"InId":"1",
+		"Name":"Joe Bloggs",
+		"Address":"Tralee",
+		"Country":"Ireland",
+		"Currency":"EUR"
+	},
+	{
+		"InId":"2",
+		"Name":"John Doe",
+		"Address":"Tralee",
+		"Country":"Ireland",
+		"Currency":"EUR"
+	}
+]
